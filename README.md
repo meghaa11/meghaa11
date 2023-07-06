@@ -38,6 +38,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy">
     <img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=m">
     <img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow">
     <img alt="Static Badge" src="https://img.shields.io/badge/seaborn-black?style=for-the-badge">
 
 
