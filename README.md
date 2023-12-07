@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/megha-s-89b520149/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="meghaaaasharma@gmail.com">
+  <a href="mailto:meghaaaasharma@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </div>
